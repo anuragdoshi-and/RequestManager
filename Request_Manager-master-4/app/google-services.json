@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "705094989868",
+    "firebase_url": "https://request-manager-cfb2b.firebaseio.com",
+    "project_id": "request-manager-cfb2b",
+    "storage_bucket": "request-manager-cfb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705094989868:android:49509f68a4e503fe607989",
+        "android_client_info": {
+          "package_name": "com.qrofeus.requestmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705094989868-rdumntkl19j9av9k3ep4tb8taprjo4i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGPdZf11ttZolsdFTT8-WzfmaY71xbqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705094989868-rdumntkl19j9av9k3ep4tb8taprjo4i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

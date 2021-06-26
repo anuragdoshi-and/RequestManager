@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Request Manager</string>
+
+    <!--Dashboard Main-->
+    <string name="request_queue">Request Queue</string>
+    <string name="register_as_user">Register User</string>
+    <string name="user_login">User Login</string>
+    <string name="admin_login">Admin Login</string>
+
+    <!--Contact Us-->
+    <string name="contact_us">Contact Us</string>
+    <string name="mail_body">Mail Body:</string>
+    <string name="body">Body</string>
+    <string name="send">Send</string>
+
+    <!--Register Request-->
+    <string name="register_request">Register Request</string>
+    <string name="subject">Subject</string>
+    <string name="details">Details</string>
+    <string name="contact_details">Contact Details: Atleast One</string>
+    <string name="mail_id">Mail ID</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="priority">Priority:</string>
+    <string name="register">Register</string>
+
+    <!--Login User-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="submit">SUBMIT</string>
+
+    <!--Account Dashboard-->
+    <string name="admin">Admin Account</string>
+    <string name="login_as_user">User Account</string>
+    <string name="my_previous_requests">My Previous Requests</string>
+    <string name="register_admin_user">Register Admin User</string>
+    <string name="profile">My Profile</string>
+    <string name="logout">Logout</string>
+
+    <!--Request Details-->
+    <string name="show_details">Show Details</string>
+
+    <string name="request_id">Request ID</string>
+    <string name="dismiss_request">DISMISS REQUEST</string>
+    <string name="confirm_dismissal">Confirm Dismissal</string>
+    <string name="complete_request">COMPLETE REQUEST</string>
+    <string name="confirm_completion">Confirm Completion</string>
+    <string name="change_priority">Change Priority</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+
+    <!--User Profile-->
+    <string name="email_address">Email Address</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="delete_profile">Delete Profile</string>
+
+    <!--Register Account-->
+    <string name="register_account">Register Account</string>
+    <string name="register_user">Register User</string>
+    <string name="contact_details_account">Contact Details</string>
+
+    <!--Request Queue Display-->
+    <string name="displaying_for_priority">Displaying for priority</string>
+    <string name="search_request_id">Search: Request ID</string>
+    <string name="pending">pending</string>
+    <string name="completed">completed</string>
+    <string name="no_requests_to_show">No Requests to show</string>
+
+    <!--Miscellaneous-->
+    <string name="background_image">Background Image</string>
+    <string name="iconBackground">IconBackground</string>
+
+    <!--Arrays-->
+    <string-array name="priorities">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+</resources>
